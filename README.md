@@ -1,6 +1,11 @@
+![](https://github.com/henryz2004/gameboypong/blob/main/demo.gif)
+
 BY HENGYUAN (HENRY) ZHANG
+For CS 2110 @ Georgia Tech
 
 WELCOME TO
+        
+```
                  ___
 |      |        |   \
 |      |        |___/
@@ -12,7 +17,7 @@ WELCOME TO
   *     BEST  GAME      *
   *   ACCORDING TO ME   *
    *     ~~~~~~~~~     *
-
+```
 
 PHYZY THE BLOP IS TRYING TO PLAY PONG BUT HE HAS NO FRIENDS :(.
 THAT MEANS HE HAS TO PLAY AGAINST HIMSELF. *SPOILER ALERT: PHYZY WINS*
@@ -31,3 +36,10 @@ RIGHT - INCREASE PHYZY RADIUS
 
 IF YOU HIT THE ORANGE WHILE PHYZY IS MOVING, THE ORANGE WILL
 "SPIN" AND DEFLECT WEIRDLY (THIS IS INTENTIONAL).
+
+### How to run
+1. Open desktop
+2. Run `docker.sh` to pull and run the CS2110 docker image
+3. Go to `http://127.0.0.1:6901/` and press Connect
+4. Navigate to the `~/host/` directory
+5. Run `make mgba` in the root directory of this repository
