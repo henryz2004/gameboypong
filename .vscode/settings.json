@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "poopyocean.h": "c",
+        "default_cube.h": "c",
+        "background_start.h": "c"
+    }
+}
