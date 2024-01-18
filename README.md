@@ -3,6 +3,8 @@
 BY HENGYUAN (HENRY) ZHANG
 For CS 2110 @ Georgia Tech
 
+Written in C for the Gameboy emulator.
+
 WELCOME TO
         
 ```
@@ -12,11 +14,6 @@ WELCOME TO
 |___   |   __   |
 |   \  |  /  \  |
 |___/  |  \__/  |
-
-   *       2021        *
-  *     BEST  GAME      *
-  *   ACCORDING TO ME   *
-   *     ~~~~~~~~~     *
 ```
 
 PHYZY THE BLOP IS TRYING TO PLAY PONG BUT HE HAS NO FRIENDS :(.
